@@ -162,7 +162,7 @@ We can write:
    ```vhdl
    entity some_entity is
        generic (
-           N_BITS : integer := some_defaul_value
+           N_BITS : integer := some_default_value  -- using positive instead of integer may be better
        );
        port (
            clk     : in    std_logic;
