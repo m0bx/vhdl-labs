@@ -2,6 +2,13 @@
 
 The projects are designed for groups of **2–4 students** with a total time allocation of **10 hours** (5 lab sessions of 2 hours each).
 
+## Several nice solutions
+
+* [VGA driver](https://github.com/Tomer27cz/vga_vhdl)
+* [Binary Perception Game](https://github.com/SimonVesely/binary-perception-game)
+* [LED Ping-Pong](https://github.com/270931/DE1-Projekt)
+* [Generátor priebehov](https://github.com/qubbo1/DE1_Projekt_uloha2)
+
 ## 1. Project rules
 
 - **Group Work:**  
